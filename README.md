@@ -22,7 +22,7 @@ A fully responsive quiz application built with **HTML5**, **CSS3**, **JavaScript
 - Google Fonts
 
 ## 🚀 Live Demo
-[View Live Demo](https://YOUR_USERNAME.github.io/interactive-quiz-app/)
+[View Live Demo]( https://sudeepgurjar.github.io/interactive-quiz-app/)
 
 ## 📸 Screenshots
 ![Quiz App Screenshot](screenshot.png)
